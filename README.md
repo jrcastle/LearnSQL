@@ -1,0 +1,1 @@
+This repository serves as documentation of the development of my skill at using SQL.
